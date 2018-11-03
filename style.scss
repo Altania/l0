@@ -1,0 +1,17 @@
+$color: red;
+
+div {
+	font-size: 26px;
+
+	ul { 
+	color: $color;
+	}
+	p {
+	color: green;
+	}
+}
+
+ol {
+	font-size: 18px;
+	color: $color;
+}
